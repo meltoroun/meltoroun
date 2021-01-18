@@ -1,7 +1,7 @@
 ### Hi there 
 
-### [<img  align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][https://t.me/flownew/]
-
+### [<img  align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[telegram]: https://t.me/flownew/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
